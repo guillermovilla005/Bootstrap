@@ -1,0 +1,13 @@
+body{
+    background-color: #303030;
+}
+
+nav{
+    background: rgb(14,224,233);
+background: linear-gradient(90deg, rgba(14,224,233,1) 0%, rgba(23,214,150,1) 50%, rgba(255,164,254,1) 100%);
+}
+#boton{
+    background: rgb(255, 141, 253);
+    border: 0px solid black;
+    color: black;
+}
